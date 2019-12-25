@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [izbenka\zaa.uek] AUTHORIZATION [IZBENKA\zaa.uek]
+GO
