@@ -1,3 +1,0 @@
-﻿CREATE USER [IZBENKA\kea.out]
-  FOR LOGIN [IZBENKA\kea.out]
-GO

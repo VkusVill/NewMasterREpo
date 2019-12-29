@@ -1,3 +1,0 @@
-﻿CREATE USER [IZBENKA\ssa.uek]
-  FOR LOGIN [IZBENKA\ssa.uek]
-GO

@@ -1,3 +1,0 @@
-﻿CREATE USER [IZBENKA\fiv.it]
-  FOR LOGIN [IZBENKA\fiv.it]
-GO

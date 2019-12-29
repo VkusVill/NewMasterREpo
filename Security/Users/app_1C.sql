@@ -1,3 +1,0 @@
-﻿CREATE USER [app_1C]
-  FOR LOGIN [app_1C]
-GO

@@ -1,3 +1,0 @@
-﻿CREATE USER [IZBENKA\automacon]
-  FOR LOGIN [IZBENKA\automacon]
-GO

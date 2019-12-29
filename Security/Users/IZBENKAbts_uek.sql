@@ -1,3 +1,0 @@
-﻿CREATE USER [IZBENKA\bts.uek]
-  FOR LOGIN [IZBENKA\bts.uek]
-GO

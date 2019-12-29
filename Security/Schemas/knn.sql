@@ -1,2 +1,0 @@
-﻿CREATE SCHEMA [knn] AUTHORIZATION [frontol]
-GO

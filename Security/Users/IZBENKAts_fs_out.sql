@@ -1,3 +1,0 @@
-﻿CREATE USER [IZBENKA\ts.fs.out]
-  FOR LOGIN [IZBENKA\ts.fs.out]
-GO
